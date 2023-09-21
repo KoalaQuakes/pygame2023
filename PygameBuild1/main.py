@@ -16,7 +16,7 @@ while True:
             exit()
     
     # draw all elements
-    screen.blit(test_surface,(0,0))
+    screen.blit(test_surface,(200,100))
 
     
     # update the screen
